@@ -12,5 +12,5 @@ Run:
  $ FeedInput "java PrimeSum"
   </pre>
   <p>The performance of your program</p>
-  <img src="sample.jpg" style="width:200;height:200"></img>
+  <img src="sample.png" style="width:200;height:200"></img>
   
