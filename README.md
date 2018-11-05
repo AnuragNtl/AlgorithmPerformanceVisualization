@@ -3,7 +3,7 @@ Visualize how an algorithm performs (Command Line version of http://www.testmyal
 
 Run:
 <pre>
-# bash install.sh
+#sudo bash install.sh
 </pre>
 
 <p>Test a console application:
