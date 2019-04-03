@@ -1,5 +1,5 @@
 # AlgorithmPerformanceVisualization
-Visualize how an algorithm performs (Command Line version of http://www.testmyalgo.com/ )
+Visualize how an algorithm performs (Command Line version of http://testmyalgo1-env.us-east-2.elasticbeanstalk.com/ )
 
 Run:
 <pre>
